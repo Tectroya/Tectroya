@@ -1,6 +1,6 @@
+![Tú lo imaginas, nosotros lo creamos](https://yt3.googleusercontent.com/zl16JmnnlNoTdAaPjyA1cG6RQiWKzuLH7N5LuN5hEp9pMtwFdvctJckcrVq1engUOlsiZKRgH-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 ## Tectroya
 #### Tú lo imaginas, nosotros lo creamos
-![Tú lo imaginas, nosotros lo creamos](https://yt3.googleusercontent.com/zl16JmnnlNoTdAaPjyA1cG6RQiWKzuLH7N5LuN5hEp9pMtwFdvctJckcrVq1engUOlsiZKRgH-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 Nuesta misión es innovar con nuevas tecnologías para dar una solución viable a nuestros clientes
 
