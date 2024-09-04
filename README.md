@@ -4,7 +4,7 @@ Tectroya
 
 Nuesta misión es innovar con nuevas tecnologías para dar una solución viable a nuestros clientes
 
-Habilidades: Wordpress, Machine Learning, Python, Swift, SwiftUI, Git y GitHub
+Habilidades: ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - 🔭 Estoy trabajando en un nuevo curso para YouTube 
 - 🌱 Estoy aprendiendo nuevas herramientas para GPT 
