@@ -1,4 +1,4 @@
-![Tú lo imaginas, nosotros lo creamos](https://yt3.googleusercontent.com/47jPSHft9MHOPk55pgSoXQEKRcTyassRlV-ChC6hY-G9OexPrICdlMHklXTgr7VhJo2mUxoy=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![Tú lo imaginas, nosotros lo creamos](https://yt3.googleusercontent.com/8RNUF6Lso1-zcuVgg7KOP1Yb7AOCsyDIahCNkudv_1E1LdL-CLHdul1fFn4ziZ5Tqhy1f1jXZQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 ## Tectroya
 #### Tú lo imaginas, nosotros lo creamos
 
